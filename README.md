@@ -18,7 +18,7 @@ The first step of using SIP_LEX application is to configure the input parameters
 
     INPUT_FILE_PATH - Path of the input files containing SIP messages
     OUTPUT_SYNTAX_ERROR_LIST - Path of the output file containing the list of SIP messages with syntax error
-    OUTPUT_SYNTAX_ERROR_LIST - Path of the output file containing the list of syntactically well-formed SIP messages
+    OUTPUT_SIP_MSG_VECTOR - Path of the output file containing the list of syntactically well-formed SIP messages
 
 Input of SIP_LEX
 
